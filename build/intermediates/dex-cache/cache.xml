@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\develop\codes\android\ConnectionWork\app\libs\mongodb-driver-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="471e09feeaaca8150af38b3e0c1557a678a35959">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\mongodb-driver-3.0.1-9e0351faf3fbea903c12e9086fcce20b3374b91e.jar" />
+    </item>
+    <item
+        jar="D:\develop\codes\android\ConnectionWork\app\libs\bson-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="82ba85a303823fcb4a9390e2ac6e98616d7394f4">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\bson-3.0.1-053c36eb7f1a31a2e54ca184a3f6d18aef7c056a.jar" />
+    </item>
+    <item
+        jar="D:\develop\codes\android\ConnectionWork\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\classes-e11bc4e17945a58d999091c3140be5bbd7f09374.jar" />
+    </item>
+    <item
+        jar="D:\develop\codes\android\ConnectionWork\app\libs\mongodb-driver-core-3.0.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="342a8f17fc592747cdfb96f5a3b4490c74523765">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\mongodb-driver-core-3.0.1-896035eb4124fc87f2ddd57710754e30815becaf.jar" />
+    </item>
+    <item
+        jar="D:\develop\codes\android\ConnectionWork\app\libs\zxing.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\zxing-3a878eaf57ca8f7ebc8bad20b6ab20c7c114f2a5.jar" />
+    </item>
+    <item
+        jar="D:\develop\tools\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-2435721b0b34b6056fbd7a1bcc292a67d36cdc31.jar" />
+    </item>
+    <item
+        jar="D:\develop\codes\android\ConnectionWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\classes-16ca662395926083c04b7408d970e521d1ac7aff.jar" />
+    </item>
+    <item
+        jar="D:\develop\codes\android\ConnectionWork\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\develop\codes\android\ConnectionWork\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-9d3efc8f5d160729637a02914398bf60220a1c35.jar" />
+    </item>
+
+</items>
